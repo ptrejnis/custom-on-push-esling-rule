@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "outDir": "dist",
+        "target": "es2019",
+        "module": "commonjs",
+        "sourceMap": false,
+        "esModuleInterop": true,
+        "forceConsistentCasingInFileNames": true,
+        "strict": true,
+        "noUnusedLocals": true,
+        "noUncheckedIndexedAccess": true,
+        "skipDefaultLibCheck": true,
+        "skipLibCheck": true,
+        "types": ["node"]
+    },
+    "include": ["src/rules/**/*"],
+    "exclude": ["node_modules", "tests"]
+}

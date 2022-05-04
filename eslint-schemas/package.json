@@ -1,0 +1,27 @@
+{
+  "name": "on-push-plugin",
+  "version": "1.0.0",
+  "description": "Plugin requires ChangeDetectionStategy OnPush as default in Angular Component",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "typescript": "^4.5.5",
+    "jest": "^28.0.3",
+    "ts-jest": "^27.0.7",
+    "@types/jest": "^27.5.0",
+    "@typescript-eslint/parser": "^5.22.0",
+    "@typescript-eslint/experimental-utils": "^5.22.0",
+    "@typescript-eslint/eslint-plugin": "^5.22.0",
+    "requireindex": "^1.2.0"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-plugin",
+    "change-detection",
+    "angular"
+  ],
+  "author": "P Trejnis",
+  "license": "MIT"
+}
