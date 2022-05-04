@@ -45,5 +45,5 @@ Thumbs.db
 .angular
 
 # Package files
-eslint-schemas/node_modules
+/eslint-schemas/node_modules
 
